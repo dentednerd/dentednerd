@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, I'm Joey. 👋
+
+I'm going to set this up shortly. In the meantime, I would love to know what you think of (my website)[https://joanneimlay.dev].
 
 <!--
 **dentednerd/dentednerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
