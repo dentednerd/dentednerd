@@ -1,6 +1,12 @@
-# Hello, I'm Joey. 👋
+![Hello, I'm Joey.](https://github.com/dentednerd/dentednerd/blob/master/githubHeader.png)
 
-I'm going to set this up shortly. In the meantime, I would love to know what you think of [my website](https://joanneimlay.dev).
+<p align="center">
+  <a href="https://joanneimlay.dev"><img src="https://img.icons8.com/bubbles/96/000000/domain.png" alt="joanneimlay.dev"/></a>
+  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/bubbles/96/000000/twitter-circled.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/bubbles/96/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
+I'm a front end developer in Manchester, England.
 
 <!--
 **dentednerd/dentednerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
