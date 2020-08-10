@@ -8,6 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dentednerd&count_private=true&show_icons=true&hide_border=true&hide=contribs,issues&bg_color=332e4a&text_color=ffffff&title_color=ff7dab" />
 </p>
 
+## Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## React is my favourite thing.
 
 Having React in my front end skillset feels like having a superpower. I'm fond of making ERN-stack apps and static sites in [Gatsby](https://gatsbyjs.org). Lately I've started experimenting with [Next.js](https://nextjs.org/).
