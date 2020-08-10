@@ -20,12 +20,24 @@ Having React in my front end skillset feels like having a superpower. I'm fond o
   <img src="https://media.giphy.com/media/rY93u9tQbybks/giphy.gif" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=mayushi&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=hotaru&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=pinpin" />
+</p>
+
 ## I'm a Northcoders graduate.
 
 I wouldn't be where I am now without [Northcoders](https://northcoders.com/), so I take every opportunity I can to shout about them.
 
 <p align="center">
   <img src="https://media.giphy.com/media/l2JhAfyOeGGhmxC2Q/giphy.gif" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=codeninjasv2" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=northcodersnewsdocker" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=charcodeizardbot" />
 </p>
 
 ## Ask me about...
