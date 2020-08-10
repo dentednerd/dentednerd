@@ -10,6 +10,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jest katas: exercises for testing](https://www.joanneimlay.dev/posts/jest/)
+- [Northcoders News, revisited](https://www.joanneimlay.dev/posts/northcoders-news-revisited/)
+- [A look around my dev environment](https://www.joanneimlay.dev/posts/my-dev-environment/)
+- [Hotaru: how I made this site](https://www.joanneimlay.dev/posts/hotaru/)
+- [Pinpin: a calming new tab for Chrome](https://www.joanneimlay.dev/posts/pinpin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## React is my favourite thing.
@@ -21,9 +26,16 @@ Having React in my front end skillset feels like having a superpower. I'm fond o
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=mayushi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=hotaru&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=pinpin" />
+  <a href="https://github.com/dentednerd/mayushi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=mayushi&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/dentednerd/hotaru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=hotaru&hide_border=true" />
+  </a>
+  <a href="https://github.com/dentednerd/pinpin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=pinpin" />
+  </a>
 </p>
 
 ## I'm a Northcoders graduate.
@@ -35,9 +47,15 @@ I wouldn't be where I am now without [Northcoders](https://northcoders.com/), so
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=codeninjasv2" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=northcodersnewsdocker" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=charcodeizardbot" />
+  <a href="https://github.com/dentednerd/northcodersnewsdocker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=northcodersnewsdocker" />
+  </a>
+  <a href="https://github.com/dentednerd/charcodeizardbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=charcodeizardbot" />
+  </a>
+  <a href="https://github.com/dentednerd/codeninjasv2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dentednerd&repo=codeninjasv2" />
+  </a>
 </p>
 
 ## Ask me about...
