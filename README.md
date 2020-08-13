@@ -10,11 +10,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let's make a website! 1: API with Express & Tumblr](https://www.joanneimlay.dev/posts/lets-make-a-website-1/)
 - [Jest katas: exercises for testing](https://www.joanneimlay.dev/posts/jest/)
 - [Northcoders News, revisited](https://www.joanneimlay.dev/posts/northcoders-news-revisited/)
-- [A look around my dev environment](https://www.joanneimlay.dev/posts/my-dev-environment/)
 - [Hotaru: how I made this site](https://www.joanneimlay.dev/posts/hotaru/)
-- [Pinpin: a calming new tab for Chrome](https://www.joanneimlay.dev/posts/pinpin/)
+- [A look around my dev environment](https://www.joanneimlay.dev/posts/my-dev-environment/)
 <!-- BLOG-POST-LIST:END -->
 
 ## React is my favourite thing.
