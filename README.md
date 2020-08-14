@@ -13,8 +13,8 @@
 - [Let's make a website! 1: API with Express & Tumblr](https://www.joanneimlay.dev/posts/lets-make-a-website-1/)
 - [Jest katas: exercises for testing](https://www.joanneimlay.dev/posts/jest/)
 - [Northcoders News, revisited](https://www.joanneimlay.dev/posts/northcoders-news-revisited/)
-- [Hotaru: how I made this site](https://www.joanneimlay.dev/posts/hotaru/)
 - [A look around my dev environment](https://www.joanneimlay.dev/posts/my-dev-environment/)
+- [Pinpin: a calming new tab for Chrome](https://www.joanneimlay.dev/posts/pinpin/)
 <!-- BLOG-POST-LIST:END -->
 
 ## React is my favourite thing.
