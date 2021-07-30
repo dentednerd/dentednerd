@@ -1,14 +1,14 @@
 ![Hello, I'm Joey.](https://github.com/dentednerd/dentednerd/blob/master/githubHeader.png)
 
 <p align="center">
-  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/bubbles/96/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/bubbles/96/000000/twitter-circled.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/bubbles/96/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
+  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
-## I'm a software engineer at [the LADbible Group](https://ladbiblegroup.com).
+## I'm a software engineer.
 
-My focus is on the front end; React is my favourite thing. I've been making websites as a hobby since 1999, but began my tech career in 2017.
+My focus is on the front end; React is my favourite thing. I've been making websites as a hobby since 1999, and professionally since 2017.
 
 <p align="center">
 <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -26,25 +26,18 @@ My focus is on the front end; React is my favourite thing. I've been making webs
 <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
 <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
 </p>
 
 ## Lately I've been...
 
-- working on a talk about the GAMINGbible menu; [read about it on Medium](https://medium.com/ladbiblegroup/lets-go-gamers-how-we-made-the-gamingbible-menu-d33115c86e28)
-- making desktop widgets for Mac with [Übersicht](https://tracesof.net/uebersicht/) (similar to [Rainmeter](https://www.rainmeter.net/) for Windows, but using JSX and Emotion instead of Lua)
-- constantly tweaking my [portfolio / resume site](https://joeyimlay.dev) in [Gatsby](https://gatsbyjs.org)
+- changing jobs! I moved from [the LADbible Group](https://ladbiblegroup.com) to join the teaching team at [Northcoders](https://northcoders.com/) in June
+- refreshing my knowledge of [PostgreSQL](https://www.postgresql.org/) and [Express](https://expressjs.com/)
+- sharing the video of [the talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI) back in April
+- implementing dark mode on my [professional site](https://joeyimlay.dev), built in [Gatsby](https://gatsbyjs.org)
 
 <p align="center">
   <img src="https://media.giphy.com/media/rY93u9tQbybks/giphy.gif" />
-</p>
-
-## I'm a [Northcoders](https://northcoders.com/) graduate.
-
-I wouldn't be where I am now without [Northcoders](https://northcoders.com/), so I take every opportunity I can to shout about them. There are three Northcoders graduates here at the LADbible Group!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l2JhAfyOeGGhmxC2Q/giphy.gif" />
 </p>
 
 ## Ask me about...
@@ -60,7 +53,7 @@ I wouldn't be where I am now without [Northcoders](https://northcoders.com/), so
 </p>
 
 <p align="center">
-  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/bubbles/96/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/bubbles/96/000000/twitter-circled.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/bubbles/96/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
+  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
+  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
