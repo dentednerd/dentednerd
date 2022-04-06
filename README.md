@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
   <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
 ## I'm a software engineer.
@@ -55,5 +55,5 @@ My focus is on the front end; React is my favourite thing. I've been making webs
 <p align="center">
   <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
   <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
-  <a href="https://www.linkedin.com/in/joanne-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
