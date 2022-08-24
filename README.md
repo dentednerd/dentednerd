@@ -8,7 +8,7 @@
 
 ## I'm a software engineer.
 
-My focus is on the front end; React is my favourite thing. I've been making websites as a hobby since 1999, and professionally since 2017.
+Specifically, I'm a full stack engineer with a focus on the front end; React is my favourite thing. I've been making websites as a hobby since 1999, and professionally since 2017.
 
 <p align="center">
 <img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -31,26 +31,18 @@ My focus is on the front end; React is my favourite thing. I've been making webs
 
 ## Lately I've been...
 
-- changing jobs! I moved from [the LADbible Group](https://ladbiblegroup.com) to join the teaching team at [Northcoders](https://northcoders.com/) in June
-- refreshing my knowledge of [PostgreSQL](https://www.postgresql.org/) and [Express](https://expressjs.com/)
-- sharing the video of [the talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI) back in April
-- implementing dark mode on my [professional site](https://joeyimlay.dev), built in [Gatsby](https://gatsbyjs.org)
+- changing jobs! I moved from the teaching team at [Northcoders](https://northcoders.com/) to a consulting role at [Infinity Works](https://www.infinityworks.com/) in August
+- speaking in public again! I gave a lightning talk on unconscious mentoring at [All Day Hey](https://heypresents.com/conferences/2022) in May
+- training! I'm going after an [AWS Developer](https://aws.amazon.com/certification/certified-developer-associate/) certification
 
-<p align="center">
-  <img src="https://media.giphy.com/media/rY93u9tQbybks/giphy.gif" />
-</p>
+(last updated August 2022)
 
 ## Ask me about...
 
-- React hooks, and why they're the future
-- the excellence of TDD with Jest
+- AWS services (I have an exam to pass, please quiz me)
+- React hooks, and why they're the future (check out [this  talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI))
 - the subtle art of CSS (please check out [Jen Simmons](https://jensimmons.com/), she's inspired me a lot lately)
 - cats, and why they deserve our love and affection
-- my album pick of 2020, [Razzmatazz](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll?si=th5FF_4YRhud354kjnV7SA)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SvL95Rx00xZm7XrG2t/giphy.gif" />
-</p>
 
 <p align="center">
   <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
