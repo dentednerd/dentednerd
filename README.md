@@ -30,15 +30,15 @@ Specifically, I'm a full stack engineer with a focus on the front end; React is 
 
 ## Lately I've been...
 
+- getting qualified! I'm now an [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
 - changing jobs! I moved from the teaching team at [Northcoders](https://northcoders.com/) to a consulting role at [Infinity Works](https://www.infinityworks.com/) in August
 - speaking in public again! I gave a lightning talk on unconscious mentoring at [All Day Hey](https://heypresents.com/conferences/2022) in May
-- training! I'm going after an [AWS Developer](https://aws.amazon.com/certification/certified-developer-associate/) certification
 
-(last updated August 2022)
+(last updated October 2022)
 
 ## Ask me about...
 
-- AWS services (I have an exam to pass, please quiz me)
+- AWS services (I passed the exam, so I officially know my stuff now)
 - React hooks, and why they're the future (check out [this  talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI))
 - the subtle art of CSS (please check out [Jen Simmons](https://jensimmons.com/), she's inspired me a lot lately)
 - cats, and why they deserve our love and affection
