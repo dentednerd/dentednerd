@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 
@@ -46,6 +45,5 @@ Specifically, I'm a full stack engineer with a focus on the front end; React is 
 
 <p align="center">
   <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://twitter.com/dentednerd"><img src="https://img.icons8.com/color/48/000000/twitter-circled.png" alt="twitter"/></a>
   <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
