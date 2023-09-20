@@ -30,16 +30,16 @@ Specifically, I'm a full stack engineer with a focus on the front end; React is 
 
 ## Lately I've been...
 
-- getting qualified! I'm now an [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-- changing jobs! I moved from the teaching team at [Northcoders](https://northcoders.com/) to a consulting role at [Infinity Works](https://www.infinityworks.com/) in August
-- speaking in public again! I gave a lightning talk on unconscious mentoring at [All Day Hey](https://heypresents.com/conferences/2022) in May
+- learning how to live with ME/CFS after my diagnosis in May
+- slowly returning to work at [Accenture Next Gen Engineering](https://www.infinityworks.com/) as of August
 
-(last updated October 2022)
+(last updated September 2023)
 
 ## Ask me about...
 
-- AWS services (I passed the exam, so I officially know my stuff now)
-- React hooks, and why they're the future (check out [this  talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI))
+- my condition - it's always good to raise awareness about ME/CFS
+- AWS services (I got certified in October 2022)
+- React hooks (check out [this  talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI))
 - the subtle art of CSS (please check out [Jen Simmons](https://jensimmons.com/), she's inspired me a lot lately)
 - cats, and why they deserve our love and affection
 
