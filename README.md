@@ -1,49 +1,23 @@
-![Hello, I'm Joey.](https://github.com/dentednerd/dentednerd/blob/master/githubHeader.png)
+# Hello. I'm Joey.
 
-<p align="center">
-  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
+I'm a front-end software engineer, writer and speaker. My pronouns are she/her. Since 2017 I've been making websites in React with a focus on accessibility and design systems.
 
-## I'm a software engineer.
+🌸 [joeyimlay.dev](https://joeyimlay.dev) 🌸 [LinkedIn](https://www.linkedin.com/in/joey-imlay-4a7a7056/) 🌸 [Credly](https://www.credly.com/users/joey-imlay.7692d937) 🌸 [Notist](https://noti.st/dentednerd) 🌸 [Medium](https://medium.com/@jo.imlay) 🌸
 
-Specifically, I'm a full stack engineer with a focus on the front end; React is my favourite thing. I've been making websites as a hobby since 1999, and professionally since 2017.
+---
 
-<p align="center">
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/kibana.png" alt="Kibana" height="50" />
-<img style="margin: 16px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-</p>
+**Unconscious Mentoring**: [🎥 talk](https://www.youtube.com/watch?v=_xPTMGeWW2A), [📑 slides](https://noti.st/dentednerd/1IEuRE/unconscious-mentoring)
 
-## Lately I've been...
+**yet(): overcoming impostor syndrome in the tech world**: [🎥 talk](https://www.youtube.com/watch?t=2515&v=hmOmKOoF9PU), [📑 slides](https://noti.st/dentednerd/dbxiJd/yet-overcoming-imposter-syndrome-in-the-tech-world)
 
-- learning how to live with ME/CFS after my diagnosis in May
-- slowly returning to work at [Accenture Next Gen Engineering](https://www.infinityworks.com/) as of August
+**Let's go, gamers: how we made the GAMINGbible menu**: [📖 article](https://medium.com/ladbiblegroup/lets-go-gamers-how-we-made-the-gamingbible-menu-d33115c86e28), [🎥 talk](https://www.youtube.com/watch?t=4114&v=eaY8ovn1FzI), [📑 slides](https://noti.st/dentednerd/FvgWC2/lets-go-gamers-how-we-built-the-gamingbible-menu)
 
-(last updated September 2023)
+**Automating BrowserStack screenshot generation with CircleCI**: [📖 article](https://medium.com/ladbiblegroup/automating-browserstack-screenshot-generation-with-circleci-502bad7dcb7d), [🎥 talk](https://www.youtube.com/watch?v=gk_5ezTqd3c)
 
-## Ask me about...
+---
 
-- my condition - it's always good to raise awareness about ME/CFS
-- AWS services (I got certified in October 2022)
-- React hooks (check out [this  talk I gave at ReactJS Girls Online #2](https://youtu.be/eaY8ovn1FzI))
-- the subtle art of CSS (please check out [Jen Simmons](https://jensimmons.com/), she's inspired me a lot lately)
-- cats, and why they deserve our love and affection
+[📖 Setting up a React component library](https://medium.com/edf-data-and-tech/setting-up-a-react-component-library-492ff08f4d7f)
 
-<p align="center">
-  <a href="https://joeyimlay.dev"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="joeyimlay.dev"/></a>
-  <a href="https://www.linkedin.com/in/joey-imlay-4a7a7056/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
+[🎥 Queer Coded #7](https://www.youtube.com/watch?v=locZbr8Dx1A)
+
+[💻 StyleStage: DeSoto](https://stylestage.dev/styles/desoto/)
